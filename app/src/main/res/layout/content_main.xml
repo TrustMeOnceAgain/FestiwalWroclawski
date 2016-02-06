@@ -11,7 +11,7 @@
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.example.filip.festiwal.MainActivity"
     tools:showIn="@layout/app_bar_main"
-    android:background="@color/festial_grey">
+    android:background="@color/festiwal_grey">
 
     <TextView
         android:layout_width="wrap_content"
